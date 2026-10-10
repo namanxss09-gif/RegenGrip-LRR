@@ -1,0 +1,5 @@
+name,crr,crr_evidence,note
+Baseline Reference Tyre,0.012,ASSUMPTION,ILLUSTRATIVE - replace with measured baseline
+Compound-Only Upgrade B,0.0114,ASSUMPTION,ILLUSTRATIVE hypothetical (5% lower) - not a measurement
+RegenGrip-LRR Hybrid G,0.0108,TARGET,Design target >=10% lower - NOT VALIDATED
+Custom User-Defined Concept,0.0110,ASSUMPTION,ILLUSTRATIVE placeholder

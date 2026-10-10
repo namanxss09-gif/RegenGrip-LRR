@@ -1,0 +1,4 @@
+name,vehicle_mass_kg,payload_mass_kg,speed_kmh,distance_km,cda_m2,drivetrain_eff,evidence
+Illustrative reference scooter,120,75,40,10,0.60,0.80,ASSUMPTION (ILLUSTRATIVE)
+Heavier load,120,110,40,10,0.60,0.80,ASSUMPTION (ILLUSTRATIVE)
+Higher speed,120,75,55,10,0.60,0.80,ASSUMPTION (ILLUSTRATIVE)
